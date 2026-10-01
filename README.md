@@ -116,24 +116,25 @@ I'm sharing this openly because I believe the best way to prove you've learned s
 
 ## 📁 Repository Structure
 
-`	ext
-purelogics-ai-genai-bootcamp/
+
+```
+Purelogics/
 │
-├── README.md                          ← you are here
+├── README.md                    ← you are here
 ├── .gitignore
 │
-├── Week-01/                           → Python Fundamentals & Data Preprocessing
-├── Week-02/                           → Pandas & FastAPI
-├── Week-03/                           → EDA & Foundational ML
-├── Week-04/                           → SVM, K-Means, PCA
-├── Week-05/                           → Deep Learning Foundations
-├── Week-06/                           → Computer Vision
-├── Week-07/                           → Transformers
-├── Week-08/                           → Prompt Engineering & RAG
-├── Week-09/                           → Generative AI (Vision)
-├── Week-10/                           → Agentic AI (LangGraph)
-└── Week-11/                           → Model Context Protocol (MCP)
-`
+├── Week-01/                     → Python Fundamentals & Data Preprocessing
+├── Week-02/                     → Pandas & FastAPI
+├── Week-03/                     → EDA & Foundational ML
+├── Week-04/                     → SVM, K-Means, PCA
+├── Week-05/                     → Deep Learning Foundations
+├── Week-06/                     → Computer Vision
+├── Week-07/                     → Transformers
+├── Week-08/                     → Prompt Engineering & RAG
+├── Week-09/                     → Generative AI (Vision)
+├── Week-10/                     → Agentic AI (LangGraph)
+└── Week-11/                     → Model Context Protocol (MCP)
+``` 
 
 > Each week folder contains its own detailed README.md explaining the concepts covered, what was built, and the reasoning behind it — along with the original lab notebooks organized by day.
 
