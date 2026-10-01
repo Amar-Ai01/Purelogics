@@ -144,10 +144,21 @@ Purelogics/
 - Notebooks (.ipynb) can be viewed directly on GitHub — code, markdown, and outputs render inline, no download needed
 
 ## 🤝 Let's Connect
+
 If you're a recruiter, hiring manager, or fellow builder — I'd genuinely love to hear from you.
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/amarshairwan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:amarshairwanai01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://amar-portfolio-omega.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/Amar-Ai01" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
+
+| Platform | Link |
+| -------- | ---- |
+| 💼 LinkedIn | [linkedin.com/in/amarshairwan](https://www.linkedin.com/in/amarshairwan) |
+| 📧 Email | [amarshairwanai01@gmail.com](mailto:amarshairwanai01@gmail.com) |
+| 🌐 Portfolio | [amar-portfolio-omega.vercel.app](https://amar-portfolio-omega.vercel.app/) |
+| 🐙 GitHub | [github.com/Amar-Ai01](https://github.com/Amar-Ai01) |
 
 ⭐ *If this repo helped you understand what an AI/GenAI bootcamp journey looks like end-to-end, consider giving it a star.*
